@@ -1,0 +1,4 @@
+mybatis:
+  typeAliasesPackage: com.lhq.springboot.base.enpty
+  mapperLocations: classpath:/mapper/*.xml
+  configLocation: classpath:/mybatis-config.xml

@@ -1,0 +1,15 @@
+write:
+  datasource.url: jdbc:mysql://127.0.0.1:3306/mysql?useUnicode=true&characterEncoding=utf8&useSSL=true
+  datasource.password: 121771
+  datasource.username: root
+  datasource.driverClassName: com.mysql.jdbc.Driver
+readone:
+  datasource.url: jdbc:mysql://127.0.0.1:3306/mysql?useUnicode=true&characterEncoding=utf8&useSSL=true
+  datasource.password: 121771
+  datasource.username: root
+  datasource.driverClassName: com.mysql.jdbc.Driver
+readtwo: 
+  datasource.url: jdbc:mysql://127.0.0.1:3306/mysql?useUnicode=true&characterEncoding=utf8&useSSL=true
+  datasource.password: 121771
+  datasource.username: root
+  datasource.driverClassName: com.mysql.jdbc.Driver
