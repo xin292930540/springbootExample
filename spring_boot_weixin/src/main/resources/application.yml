@@ -1,0 +1,12 @@
+wx:
+  partnerId: 1332627301
+  partnerKey: IfJl4QJHVvKJezJebkkOQqXcobGF5DKi
+  appId: wx9709d3d8ba74284d
+  secret: 8651b5c1269a23424400bbf6dafa4e4f
+  token: snkecelyong
+  aesKey: gZYY0a0n3wAfFuIi2oQ332SXNOW3XQWyxstnOf093O0
+jdbc:
+  datasource.url: jdbc:mysql://127.0.0.1:3306/springboot?useUnicode=true&characterEncoding=utf8&useSSL=true
+  datasource.password: 121771
+  datasource.username: root
+  datasource.driverClassName: com.mysql.jdbc.Driver
